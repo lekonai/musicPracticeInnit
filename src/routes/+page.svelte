@@ -1,6 +1,4 @@
-<h1>Welcome to this awesome web app!</h1>
-<style>
-    h1{
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    } 
-</style>
+<div class = "main">
+    <h1>Insert Welcome Page Shenanigans Here.</h1>
+    <p>hello... these aren't the right fonts whatsoever.</p>
+</div>
